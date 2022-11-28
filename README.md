@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="css/style.css" />
     </head>
     <body>
-        <h1 class="pembe-baslik">Müzik Dükkanım</h1>
+        <h1 class="pembe-baslik">Müzik Sanat Okulum</h1>
         <nav>
             <a class="sola-kay" href="index.html">Ana Sayfa</a>
             <a href="products.html">Ürünlerimiz</a>
