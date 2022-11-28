@@ -22,28 +22,11 @@
                 <p>
                     Müzik Sanat Okulum 2019 yılında kurulmuştur. Kaliteli bir eğitim alarak enstürman çalmak isteyenleri bekleriz. Aynı zamanda müzik aleti satışlarımız da mevcuttur.
                 </p>
-                <h3>Vizyonumuz</h3>
+                <h3>Müzik Sanat Okulum sizlerle..</h3>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis a doloribus sequi earum sint
-                    fugiat nostrum totam tenetur? Quasi harum debitis blanditiis unde dolores cupiditate voluptate.
-                    Atque alias molestias necessitatibus aliquid optio voluptatum ipsam iste beatae deleniti dolorum
-                    quisquam fugiat, ut nobis nostrum possimus itaque molestiae ex temporibus consequuntur corrupti
-                    exercitationem facilis. Ex quas sunt, accusantium earum sint, pariatur dolorum facere magnam neque
-                    adipisci mollitia odit ab. Nemo incidunt non a sunt praesentium autem amet quo dolore corrupti,
-                    accusamus dolor. Mollitia vel quasi doloremque officiis hic, adipisci ut ab, architecto laudantium,
-                    temporibus quisquam? Totam enim quidem cumque non. Nulla, commodi.
+                    Müzik bizim için bir tutku. Sizlerle aynı tutkuyu paylaştığımızı biliyoruz. Şu anda buradaysanız tutkunuzun peşinden gitmeye başlamışsınız demektir. Biz de burada sizin gibi müzik tutkunlarına hizmet vermekten çok mutluyuz. Kaliteli bir eğitim için alanında uzman eğitmenlerimiz sizleri bekliyor. Kısa sürede hedeflerinize ulaşacağınız eğlenceli bir eğitim için doğru yerdesiniz. Aynı zamanda müzik kaliteli aletleri de sunduğumuz merkezimizde sizlerle buluşmayı sabırsızlıkla bekliyoruz.
                 </p>
-                <h3>Misyonumuz</h3>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolor consequatur
-                    possimus beatae? Pariatur, doloribus consequatur quasi odio maxime quis, porro placeat eligendi
-                    numquam magnam debitis inventore alias. Cumque ipsam quibusdam eius, fugit excepturi quasi corporis
-                    quo nesciunt, nemo ea voluptatibus minus rerum quaerat? Quasi pariatur sit reprehenderit? Officiis
-                    ipsum labore expedita quas tenetur, obcaecati eaque, culpa impedit maxime a laudantium quisquam?
-                    Repellat aliquam dolorem minus animi laboriosam magni dicta illo voluptates? Enim nulla ab id eum
-                    commodi at dolorum quis corporis ullam saepe officiis quisquam a eligendi, aut et praesentium sequi
-                    cum, temporibus rem. Unde dicta debitis mollitia.
-                </p>
+                
             </article>
         </section>
     </body>
